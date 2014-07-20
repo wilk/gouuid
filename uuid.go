@@ -3,6 +3,9 @@
 // and 5 UUIDs as specified in RFC 4122.
 //
 // Copyright (C) 2011 by Krzysztof Kowalik <chris@nu7hat.ch>
+
+// Other comments
+
 package uuid
 
 import (
